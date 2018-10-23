@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+    The folder in which I ran "git init" gets a folder called ".git". From here on out, Git can implemenent its version tracking methods.

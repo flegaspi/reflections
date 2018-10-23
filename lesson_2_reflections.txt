@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
     The folder in which I ran "git init" gets a folder called ".git". From here on out, Git can implemenent its version tracking methods.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+    The staging area is like an intermediate between the working directory and committs. I can prepare multiple files for a single committ in the stagin area.

@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
     I can put files on stage only after modular changes.
+
+How do the diagrams help you visualize the branch structure?
+    If you're asking about the hand drawn branches in the video, then yes, it helps a lot. I can vsualize which commits are related to which branch, and which commits are reachable.

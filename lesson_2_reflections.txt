@@ -9,3 +9,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 How do the diagrams help you visualize the branch structure?
     If you're asking about the hand drawn branches in the video, then yes, it helps a lot. I can vsualize which commits are related to which branch, and which commits are reachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+    Merge changes from multiple authors/features into one?

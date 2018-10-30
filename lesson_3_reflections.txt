@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all of your work local?
+    When I want others to see or collaborate to my projects. When I want ability to work on my project in the cloud?

@@ -12,3 +12,8 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
     Merge changes from multiple authors/features into one?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+    Manually comes with the risk of typos. However, shouldn't be that bad if we can do "git diff"s and find errors. I don't sense I learned automatic merging.
+
+
